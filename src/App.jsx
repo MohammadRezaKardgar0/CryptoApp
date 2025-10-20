@@ -1,13 +1,7 @@
-
+import HomePage from "./components/templates/HomePage";
 
 function App() {
-
-
-  return (
-    <>
-     
-    </>
-  )
+  return <HomePage />;
 }
 
-export default App
+export default App;
